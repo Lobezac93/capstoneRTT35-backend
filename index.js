@@ -16,7 +16,7 @@ try {
     console.log(error)
 }
 
-const PORT =  4000;
+const PORT =  5000;
 
 //middleware
 app.use(express.json())
